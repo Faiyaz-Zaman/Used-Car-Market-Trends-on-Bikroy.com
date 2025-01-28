@@ -4,9 +4,13 @@ The goal of this project is to gather information on used cars in Bangladesh fro
 Later we used the scraped data to understand the following demographics and correlations using Tableau dashboard:
 
 1.Market Insights: What is the scenario of used cars for sale across different cities?
+
 2.Price-Mileage Relationship: Is there a significant relationship between a car's price and the mileage it has driven?
+
 3.Brand Impact: Does the brand influence the price? Which brand commands the highest resale value?
+
 4.Usage Patterns: After how much usage (in terms of mileage or years) do buyers typically sell their cars?
+
 5.Top-Performing Models: Which car model stands out with the highest average price and the highest mileage driven when sold?
 
 #Findings
