@@ -2,6 +2,7 @@
 #Problem Statement
 The goal of this project is to gather information on used cars in Bangladesh from [here](https://bikroy.com/en/ads/c/bangladesh/cars/used)
 Later we used the scraped data to understand the following demographics and correlations using Tableau dashboard:
+
 1.Market Insights: What is the scenario of used cars for sale across different cities?
 2.Price-Mileage Relationship: Is there a significant relationship between a car's price and the mileage it has driven?
 3.Brand Impact: Does the brand influence the price? Which brand commands the highest resale value?
