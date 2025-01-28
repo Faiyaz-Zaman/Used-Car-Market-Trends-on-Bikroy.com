@@ -1,7 +1,6 @@
 # UsedCarVisualization
 #Problem Statement
-The goal of this project is to gather information on used cars in Bangladesh from [here]: 
-(https://bikroy.com/en/ads/c/bangladesh/cars/used)
+The goal of this project is to gather information on used cars in Bangladesh from [here](https://bikroy.com/en/ads/c/bangladesh/cars/used)
 Later we used the scraped data to understand the following demographics and correlations using Tableau dashboard:
 1. The scenario of used cars for sale in different cities
 2. Is there any relation between the price and mileage driven per car?
