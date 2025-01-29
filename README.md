@@ -20,7 +20,7 @@ Later we used the scraped data to understand the following demographics and corr
 4. It depends on different brands, for example, Nissan users sell their car after 115,856 km, Cherry 26,100, etc. The rest of them are shown in the Tableau dashboard.
 5. Nissan Teana cc 2400 2005 has an average mileage of 990000 km with an average price of 1080000.
 
-You can visit the public dashboard [here](https://public.tableau.com/app/profile/faiyaz.zaman/viz/demographicsofbestcs/Dashboard1?publish=yes)
+You can visit the public dashboard [here](https://public.tableau.com/app/profile/faiyaz.zaman/viz/UsedCarVisualization/Dashboard1?publish=yes)
 ## Build From Sources
 1. Clone the repo 
 ```bash
