@@ -49,7 +49,7 @@ Toyota,Toyota Aqua EXCELLENT CONDITION 2012,Dhaka,Yes,Not given,1290000,60000
 Toyota,Toyota Aqua . 2012,Dhaka,No,Not given,1195000,83384
 Toyota,Toyota Corolla # S LED READY STOCK 2020,Dhaka,Yes,Not given,2970000,43000
 Toyota,Toyota Land Cruiser Prado (TX) 7 Seat 1998,Dhaka,Yes,Not given,1690000,100000
-Toyota,Toyota C-HR 2017,Rajshahi Division,No,Not given,2800000,100000
+Toyota,Toyota C-HR 2017,Rajshahi,No,Not given,2800000,100000
 Toyota,Toyota RAV4 CR 13 2005,Dhaka,No,Not given,1485000,88000
 Honda,Honda Insight EX 4.5grd PEARL 2019,Dhaka,Yes,Not given,3720000,44262
 Toyota,Toyota ist CR 32.REG 2018.MODEL 2012,Dhaka,No,Not given,1490000,77000
@@ -73,7 +73,7 @@ Toyota,Toyota Allion 2010,Dhaka,No,Not given,1850000,90000
 Toyota,Toyota Allion . 2010,Dhaka,No,Not given,2000000,64414
 Toyota,Toyota Premio FL 2017,Dhaka,Yes,Not given,3260000,76000
 Toyota,Toyota Esquire Gi premium hybrid 2019,Dhaka,Yes,Not given,3770000,60000
-Toyota,Toyota Axio 2012,Dhaka Division,No,Not given,1600000,95000
+Toyota,Toyota Axio 2012,Dhaka,No,Not given,1600000,95000
 Toyota,Toyota Allion 2015,Dhaka,Yes,Not given,2450000,66317
 Toyota,Toyota Axio fresh 2007,Dhaka,Yes,Not given,1199999,80000
 Mitsubishi,Mitsubishi Pajero sports Hard Jeep 2020,Dhaka,Yes,Not given,9870000,29505
@@ -98,7 +98,7 @@ Toyota,Toyota Esquire Gi SPECIAL EDITION 2019,Dhaka,Yes,Not given,3350000,120000
 Toyota,"Toyota C-HR G- LED , READY STOCK 2019",Dhaka,Yes,Not given,3120000,91000
 Toyota,Toyota Axio 2012,Dhaka,No,Not given,1570000,85100
 BMW,BMW X3 18 inch crome Alloy 2011,Dhaka,No,Not given,35000000,66000
-Toyota,Toyota Axio Ex Push start 2019,Chattogram Division,No,Not given,2540000,31000
+Toyota,Toyota Axio Ex Push start 2019,Chittagong,No,Not given,2540000,31000
 Toyota,Toyota Axio . 2010,Barishal,No,Not given,1420000,95000
 Toyota,Toyota Corolla X 2005,Dhaka,No,Not given,1350000,120000
 Toyota,Toyota Corolla G 2005,Dhaka,No,Not given,1250000,75000
@@ -112,7 +112,7 @@ Toyota,Toyota Allion . 2004,Dhaka,No,Not given,1350000,200000
 Toyota,Toyota Axio X Edition 2010,Dhaka,No,Not given,1460000,90000
 Toyota,Toyota Axio 2014,Dhaka,No,Not given,1500000,100000
 Toyota,Toyota Corolla Cross Z Package 2021,Dhaka,No,Not given,4330000,9400
-Toyota,Toyota Allion A15 2009,Rajshahi Division,No,Not given,1700000,78000
+Toyota,Toyota Allion A15 2009,Rajshahi,No,Not given,1700000,78000
 Toyota,Toyota Allion 2012,Dhaka,No,Not given,2200000,73000
 Toyota,Toyota Axio . 2008,Dhaka,No,Not given,1300000,407233
 Nissan,"Nissan X-Trail Hybrid, Sunroof 2015",Dhaka,No,Not given,2600000,87000
@@ -127,7 +127,7 @@ Toyota,Toyota Allion . 2012,Dhaka,No,Not given,1980000,120000
 Toyota,Toyota Fielder X 2004,Dhaka,No,Not given,1060000,70000
 Honda,Honda CR-V Ex Masterpiece 2019,Dhaka,No,Not given,5950000,29434
 Toyota,Toyota Premio . 2007,Dhaka,No,Not given,1850000,76000
-Toyota,Toyota Premio . 2002,Rangpur Division,No,Not given,1280000,85000
+Toyota,Toyota Premio . 2002,Rangpur,No,Not given,1280000,85000
 Toyota,Toyota Wagon 100 . 2001,Dhaka,No,Not given,380000,115000
 Toyota,Toyota Axio Corella G Grade 2012,Dhaka,No,Not given,1610000,72450
 Toyota,Toyota Axio . 2014,Dhaka,No,Not given,1710009,85450
@@ -140,32 +140,32 @@ Toyota,Toyota Allion G pkg 2006,Dhaka,No,Not given,1470000,87238
 Toyota,Toyota Probox GL 2011,Dhaka,No,Not given,1050000,76000
 Toyota,Toyota Allion A 15 G Pkg LPG 2007,Dhaka,Yes,Not given,1600000,67500
 Toyota,Toyota Prius S SEFTY/603 2019,Dhaka,Yes,4 minutes,2970000,75000
-Toyota,Toyota Fielder push start 2012,Chattogram,Yes,4 minutes,1820000,74000
+Toyota,Toyota Fielder push start 2012,Chittagong,Yes,4 minutes,1820000,74000
 Toyota,Toyota Corolla X 2004,Dhaka,Yes,8 minutes,1220000,92000
-Toyota,Toyota Allion wine 2004,Chattogram,Yes,8 minutes,1250000,89000
-Honda,Honda Civic black 2012,Chattogram,Yes,12 minutes,1250000,53000
-Toyota,Toyota Avanza gray 2010,Chattogram,Yes,12 minutes,1380000,89000
-Toyota,Toyota Axio EX PKG 2019,Chattogram,Yes,12 minutes,2500000,21000
-Toyota,Toyota Corolla x 2003,Chattogram,Yes,12 minutes,1150000,85000
-Toyota,Toyota Premio fex 2017,Chattogram,Yes,14 minutes,3450000,43000
+Toyota,Toyota Allion wine 2004,Chittagong,Yes,8 minutes,1250000,89000
+Honda,Honda Civic black 2012,Chittagong,Yes,12 minutes,1250000,53000
+Toyota,Toyota Avanza gray 2010,Chittagong,Yes,12 minutes,1380000,89000
+Toyota,Toyota Axio EX PKG 2019,Chittagong,Yes,12 minutes,2500000,21000
+Toyota,Toyota Corolla x 2003,Chittagong,Yes,12 minutes,1150000,85000
+Toyota,Toyota Premio fex 2017,Chittagong,Yes,14 minutes,3450000,43000
 Toyota,Toyota Axio Octane use 2010,Dhaka,Yes,14 minutes,1595000,55000
 Toyota,Toyota Premio F G pkg 2012,Dhaka,Yes,Not given,2395000,63000
-Toyota,Toyota Hiace Super Gl 2010,Chattogram,Yes,14 minutes,2280000,89000
-Toyota,Toyota Corolla G 2005,Chattogram,Yes,16 minutes,1270000,85000
-Mitsubishi,Mitsubishi Pajero v93 2007,Chattogram,Yes,16 minutes,3300000,59000
+Toyota,Toyota Hiace Super Gl 2010,Chittagong,Yes,14 minutes,2280000,89000
+Toyota,Toyota Corolla G 2005,Chittagong,Yes,16 minutes,1270000,85000
+Mitsubishi,Mitsubishi Pajero v93 2007,Chittagong,Yes,16 minutes,3300000,59000
 Mercedes-Benz,Mercedes-Benz MB100 Diesel Engine 2005,Dhaka,Yes,16 minutes,620000,98563
 Mercedes-Benz,Mercedes-Benz MB100 Diesel Engine 2005,Barishal,Yes,16 minutes,620000,145871
-Toyota,Toyota C-HR G LED 2019,Chattogram,Yes,16 minutes,3300000,61000
+Toyota,Toyota C-HR G LED 2019,Chittagong,Yes,16 minutes,3300000,61000
 Toyota,Toyota C-HR G LED MODELISTA 2019,Dhaka,Yes,18 minutes,3300030,61500
-Toyota,Toyota Axio EX HYB 16700KM 2021,Chattogram,Yes,18 minutes,2580000,16700
+Toyota,Toyota Axio EX HYB 16700KM 2021,Chittagong,Yes,18 minutes,2580000,16700
 Toyota,Toyota Axio EX HYB 17000KM 2021,Dhaka,Yes,18 minutes,2580080,16770
-Toyota,Toyota Aqua hybrid 2014,Chattogram,Yes,18 minutes,1250000,89000
-Toyota,Toyota Noah X 2004,Chattogram,Yes,20 minutes,1150000,120000
-Toyota,Toyota Sprinter 111 1999,Chattogram,Yes,20 minutes,600000,98000
+Toyota,Toyota Aqua hybrid 2014,Chittagong,Yes,18 minutes,1250000,89000
+Toyota,Toyota Noah X 2004,Chittagong,Yes,20 minutes,1150000,120000
+Toyota,Toyota Sprinter 111 1999,Chittagong,Yes,20 minutes,600000,98000
 Toyota,Toyota Corolla Cross “Z Leather” 2023,Dhaka,Yes,20 minutes,5510000,3000
 Honda,Honda Vezel Z RS Hybrid 2023,Dhaka,Yes,20 minutes,4400000,10000
-Toyota,Toyota Allion push start 2007,Chattogram,Yes,20 minutes,1690000,89000
-Nissan,Nissan Bluebird LPG 2008,Chattogram,Yes,20 minutes,1350000,86000
+Toyota,Toyota Allion push start 2007,Chittagong,Yes,20 minutes,1690000,89000
+Nissan,Nissan Bluebird LPG 2008,Chittagong,Yes,20 minutes,1350000,86000
 Toyota,Toyota Axio X/84 2019,Dhaka,Yes,20 minutes,2290000,35000
 Mitsubishi,Mitsubishi Pajero Sunroof (LPG) 1994,Barishal,Yes,20 minutes,590000,157421
 Nissan,Nissan Carryboy Deasel 2007,Dhaka,Yes,20 minutes,885000,98000
@@ -173,9 +173,9 @@ Nissan,Nissan Carryboy single cabin 2010,Dhaka,Yes,24 minutes,950000,95000
 Nissan,Nissan Urvan . 2007,Dhaka,Yes,24 minutes,965000,78000
 Toyota,Toyota Fielder G-limited 2011,Dhaka,Yes,24 minutes,1565000,68000
 Toyota,Toyota Allion G 2006,Dhaka,Yes,24 minutes,1610000,86000
-Toyota,Toyota Vitz silver 2012,Chattogram,Yes,24 minutes,990000,52000
-Toyota,Toyota Noah SI WXB HYB 35000KM 2020,Chattogram,Yes,Not given,3200000,35000
-Proton,Proton x50 2021,Chattogram,Yes,27 minutes,2550000,36000
+Toyota,Toyota Vitz silver 2012,Chittagong,Yes,24 minutes,990000,52000
+Toyota,Toyota Noah SI WXB HYB 35000KM 2020,Chittagong,Yes,Not given,3200000,35000
+Proton,Proton x50 2021,Chittagong,Yes,27 minutes,2550000,36000
 Toyota,Toyota Premio FEX 2015,Dhaka,Yes,27 minutes,2735000,80000
 Toyota,Toyota Raum 2011,Dhaka,Yes,27 minutes,1325000,108000
 Toyota,Toyota Axio PUSH START EX/62 2019,Dhaka,Yes,27 minutes,2450000,45000
@@ -183,269 +183,269 @@ Toyota,Toyota Crown sunroof 2004,Dhaka,Yes,27 minutes,2599000,53000
 Toyota,Toyota Corolla X Good Condition 2006,Dhaka,Yes,27 minutes,1380000,69000
 Toyota,Toyota Premio F G superior 2012,Dhaka,Yes,27 minutes,2395000,63000
 Honda,Honda Civic new shap 2023,Dhaka,Yes,27 minutes,4950000,2900
-Toyota,Toyota Allion silver 2005,Chattogram,Yes,27 minutes,1360000,92000
-Tiggo,Tiggo 2011,Chattogram,Yes,29 minutes,1480000,75000
-Toyota,Toyota Avanza black 2011,Chattogram,Yes,29 minutes,980000,98000
-Toyota,Toyota Noah silver 2002,Chattogram,Yes,29 minutes,980000,95000
+Toyota,Toyota Allion silver 2005,Chittagong,Yes,27 minutes,1360000,92000
+Tiggo,Tiggo 2011,Chittagong,Yes,29 minutes,1480000,75000
+Toyota,Toyota Avanza black 2011,Chittagong,Yes,29 minutes,980000,98000
+Toyota,Toyota Noah silver 2002,Chittagong,Yes,29 minutes,980000,95000
 Toyota,Toyota Noah একস নোহা 2012,Dhaka,Yes,29 minutes,2280000,75000
-Toyota,Toyota Premio push start 2010,Chattogram,Yes,29 minutes,2050000,75000
-Toyota,Toyota Premio silver 2005,Chattogram,Yes,29 minutes,1350000,92000
-Toyota,Toyota Fielder wxb 2015,Chattogram,Yes,29 minutes,2250000,52000
-Nissan,Nissan X-Trail smart push 2011,Chattogram,Yes,29 minutes,2160000,37000
-Toyota,Toyota Allion A15 2007,Chattogram,Yes,31 minutes,1650000,79000
-Toyota,Toyota Sprinter 111 1999,Chattogram,Yes,31 minutes,600000,85000
-Toyota,Toyota Axio white 2010,Chattogram,Yes,31 minutes,1450000,74000
-Toyota,Toyota Hiace Super Gl 2015,Chattogram,Yes,31 minutes,3180000,75000
-Honda,Honda Vezel hybrid 2014,Chattogram,Yes,31 minutes,1550000,59000
-Nissan,Nissan X-Trail sunroof.. 2015,Chattogram,Yes,31 minutes,2890000,76540
-Toyota,Toyota Fielder 202 2011,Chattogram,Yes,31 minutes,1995000,85000
-Toyota,Toyota Noah X push start 2011,Chattogram,Yes,Not given,2150000,99000
+Toyota,Toyota Premio push start 2010,Chittagong,Yes,29 minutes,2050000,75000
+Toyota,Toyota Premio silver 2005,Chittagong,Yes,29 minutes,1350000,92000
+Toyota,Toyota Fielder wxb 2015,Chittagong,Yes,29 minutes,2250000,52000
+Nissan,Nissan X-Trail smart push 2011,Chittagong,Yes,29 minutes,2160000,37000
+Toyota,Toyota Allion A15 2007,Chittagong,Yes,31 minutes,1650000,79000
+Toyota,Toyota Sprinter 111 1999,Chittagong,Yes,31 minutes,600000,85000
+Toyota,Toyota Axio white 2010,Chittagong,Yes,31 minutes,1450000,74000
+Toyota,Toyota Hiace Super Gl 2015,Chittagong,Yes,31 minutes,3180000,75000
+Honda,Honda Vezel hybrid 2014,Chittagong,Yes,31 minutes,1550000,59000
+Nissan,Nissan X-Trail sunroof.. 2015,Chittagong,Yes,31 minutes,2890000,76540
+Toyota,Toyota Fielder 202 2011,Chittagong,Yes,31 minutes,1995000,85000
+Toyota,Toyota Noah X push start 2011,Chittagong,Yes,Not given,2150000,99000
 Toyota,Toyota Corolla Cross Z LATHER PANO/570 2022,Dhaka,Yes,31 minutes,4890000,19000
 Toyota,Toyota Premio . 2004,Dhaka,No,35 minutes,1400000,150000
-Toyota,Toyota Cami blue 1997,Chattogram,Yes,36 minutes,580000,89000
-Toyota,Toyota Premio Push start 2004,Chattogram,Yes,37 minutes,1480000,86000
-Toyota,Toyota Premio push start 2011,Chattogram,Yes,37 minutes,2200000,74000
+Toyota,Toyota Cami blue 1997,Chittagong,Yes,36 minutes,580000,89000
+Toyota,Toyota Premio Push start 2004,Chittagong,Yes,37 minutes,1480000,86000
+Toyota,Toyota Premio push start 2011,Chittagong,Yes,37 minutes,2200000,74000
 Toyota,Toyota Premio FEX mica blue 2021,Khulna,Yes,37 minutes,4750000,36567
-Toyota,Toyota Allion car 2004,Chattogram,Yes,37 minutes,1250000,68000
-Nissan,Nissan X-Trail push start 2012,Chattogram,Yes,37 minutes,1950000,62000
+Toyota,Toyota Allion car 2004,Chittagong,Yes,37 minutes,1250000,68000
+Nissan,Nissan X-Trail push start 2012,Chittagong,Yes,37 minutes,1950000,62000
 Toyota,Toyota Allion G SILVER 2019,Khulna,Yes,37 minutes,3450000,94000
-Toyota,Toyota Noah x 2006,Chattogram,Yes,37 minutes,1080000,95000
-Toyota,Toyota Corolla 111 1997,Chattogram,Yes,37 minutes,550000,85000
-Toyota,Toyota Premio car 2003,Chattogram,Yes,37 minutes,1290000,99000
-Toyota,Toyota Axio peldar Push start 2016,Chattogram,Yes,40 minutes,2150000,45000
-Toyota,Toyota Kluger sun roof 2004,Chattogram,Yes,40 minutes,1650000,59000
-Toyota,Toyota Allion fush state 2013,Chattogram,Yes,40 minutes,2470000,65000
-Toyota,Toyota Noah Spotty town ace 2010,Chattogram,Yes,40 minutes,680000,120000
-Toyota,Toyota Probox dx 2002,Chattogram,Yes,40 minutes,580000,90000
+Toyota,Toyota Noah x 2006,Chittagong,Yes,37 minutes,1080000,95000
+Toyota,Toyota Corolla 111 1997,Chittagong,Yes,37 minutes,550000,85000
+Toyota,Toyota Premio car 2003,Chittagong,Yes,37 minutes,1290000,99000
+Toyota,Toyota Axio peldar Push start 2016,Chittagong,Yes,40 minutes,2150000,45000
+Toyota,Toyota Kluger sun roof 2004,Chittagong,Yes,40 minutes,1650000,59000
+Toyota,Toyota Allion fush state 2013,Chittagong,Yes,40 minutes,2470000,65000
+Toyota,Toyota Noah Spotty town ace 2010,Chittagong,Yes,40 minutes,680000,120000
+Toyota,Toyota Probox dx 2002,Chittagong,Yes,40 minutes,580000,90000
 Toyota,Toyota Aqua S Style 2019,Dhaka,Yes,40 minutes,1900000,71256
 Toyota,Toyota Corolla Cross Z LATHER 360/59 2021,Dhaka,Yes,40 minutes,4290000,25000
 Toyota,Toyota C-HR G-LED NEW SHAPE 2019,Khulna,Yes,40 minutes,3290000,27140
 Honda,Honda Vezel E:HE VZ 2021,Dhaka,Yes,42 minutes,4550000,20000
-Toyota,Toyota Axio peldar push start 2012,Chattogram,Yes,42 minutes,1850000,69000
-Toyota,Toyota C-HR hybrid 2016,Chattogram,Yes,44 minutes,2450000,52000
-Toyota,Toyota ist golden 2004,Chattogram,Yes,44 minutes,920000,89000
-Hyundai,Hyundai Santa Fe Gray 2008,Chattogram,Yes,Not given,1090000,75000
-Hyundai,Hyundai Tucson sunroof monroof 2017,Chattogram,Yes,44 minutes,3100000,65000
-Toyota,Toyota Premio push start 2008,Chattogram,Yes,44 minutes,1950000,99000
-Nissan,Nissan Navara gray 2002,Chattogram,Yes,44 minutes,750000,98000
-Toyota,Toyota Fielder silver 2009,Chattogram,Yes,44 minutes,1450000,86000
-Toyota,Toyota Axio G 2013,Chattogram,Yes,44 minutes,1780000,75000
-Toyota,Toyota Premio push start 2012,Chattogram,Yes,44 minutes,2170000,90000
+Toyota,Toyota Axio peldar push start 2012,Chittagong,Yes,42 minutes,1850000,69000
+Toyota,Toyota C-HR hybrid 2016,Chittagong,Yes,44 minutes,2450000,52000
+Toyota,Toyota ist golden 2004,Chittagong,Yes,44 minutes,920000,89000
+Hyundai,Hyundai Santa Fe Gray 2008,Chittagong,Yes,Not given,1090000,75000
+Hyundai,Hyundai Tucson sunroof monroof 2017,Chittagong,Yes,44 minutes,3100000,65000
+Toyota,Toyota Premio push start 2008,Chittagong,Yes,44 minutes,1950000,99000
+Nissan,Nissan Navara gray 2002,Chittagong,Yes,44 minutes,750000,98000
+Toyota,Toyota Fielder silver 2009,Chittagong,Yes,44 minutes,1450000,86000
+Toyota,Toyota Axio G 2013,Chittagong,Yes,44 minutes,1780000,75000
+Toyota,Toyota Premio push start 2012,Chittagong,Yes,44 minutes,2170000,90000
 Toyota,Toyota Esquire GI PREMIUM BROWN/76 2019,Dhaka,Yes,44 minutes,3750000,69000
 Toyota,Toyota Esquire Gi HYBRID 2020,Khulna,Yes,44 minutes,3800000,63469
 Toyota,Toyota Fielder X Hybrid 2019,Khulna,Yes,1 hour,2130000,52343
 Toyota,Toyota Axio . 2012,Dhaka,Yes,1 hour,1550000,89000
-Toyota,Toyota Premio push start 2009,Chattogram,Yes,1 hour,1980000,85000
+Toyota,Toyota Premio push start 2009,Chittagong,Yes,1 hour,1980000,85000
 Toyota,Toyota Corolla G-WXB HYB 4 PEARL 2020,Dhaka,Yes,1 hour,3220000,58524
 Toyota,Toyota Aqua Hybrid 2021,Dhaka,Yes,1 hour,2000000,100000
 Toyota,Toyota Axio G 2014,Dhaka,Yes,1 hour,1900000,85000
 Toyota,Toyota Sienta G QURO/87 2019,Dhaka,Yes,1 hour,2690000,49000
-Toyota,Toyota Ractis push start 2012,Chattogram,Yes,1 hour,1380000,52000
-Toyota,Toyota Axio push start 2011,Chattogram,Yes,1 hour,1650000,67000
-Toyota,Toyota Allion push start 2009,Chattogram,Yes,1 hour,1890000,79000
-Toyota,Toyota Harrier sunroof munroof 2014,Chattogram,Yes,1 hour,4590000,56000
-Toyota,Toyota Axio peldar chabi start 2017,Chattogram,Yes,1 hour,2150000,69000
-Toyota,Toyota Allion Car 2004,Chattogram,Yes,1 hour,1230000,99000
+Toyota,Toyota Ractis push start 2012,Chittagong,Yes,1 hour,1380000,52000
+Toyota,Toyota Axio push start 2011,Chittagong,Yes,1 hour,1650000,67000
+Toyota,Toyota Allion push start 2009,Chittagong,Yes,1 hour,1890000,79000
+Toyota,Toyota Harrier sunroof munroof 2014,Chittagong,Yes,1 hour,4590000,56000
+Toyota,Toyota Axio peldar chabi start 2017,Chittagong,Yes,1 hour,2150000,69000
+Toyota,Toyota Allion Car 2004,Chittagong,Yes,1 hour,1230000,99000
 Toyota,Toyota Hiace GL PROJECTION LED L. 2019,Dhaka,Yes,1 hour,3170000,71236
-Nissan,Nissan X-Trail hybrid 2017,Chattogram,Yes,1 hour,2950000,32000
-Nissan,Nissan Patrol Dhaka metro 1998,Chattogram,Yes,1 hour,1750000,130000
-Nissan,Nissan Patrol Dhaka metro 1998,Chattogram,Yes,Not given,1750000,130000
-Toyota,Toyota Premio silver 2003,Chattogram,Yes,1 hour,1380000,89000
-Proton,Proton Saga Red 2020,Chattogram,Yes,1 hour,950000,37000
-Nissan,Nissan hilux 2005,Chattogram,Yes,1 hour,850000,89000
-Toyota,Toyota Noah x 2016,Chattogram,Yes,1 hour,3160000,69000
-Toyota,Toyota Rush bulu 2006,Chattogram,Yes,1 hour,1170000,96000
-Toyota,Toyota Corolla G 2004,Chattogram,Yes,1 hour,1260000,89000
+Nissan,Nissan X-Trail hybrid 2017,Chittagong,Yes,1 hour,2950000,32000
+Nissan,Nissan Patrol Dhaka metro 1998,Chittagong,Yes,1 hour,1750000,130000
+Nissan,Nissan Patrol Dhaka metro 1998,Chittagong,Yes,Not given,1750000,130000
+Toyota,Toyota Premio silver 2003,Chittagong,Yes,1 hour,1380000,89000
+Proton,Proton Saga Red 2020,Chittagong,Yes,1 hour,950000,37000
+Nissan,Nissan hilux 2005,Chittagong,Yes,1 hour,850000,89000
+Toyota,Toyota Noah x 2016,Chittagong,Yes,1 hour,3160000,69000
+Toyota,Toyota Rush bulu 2006,Chittagong,Yes,1 hour,1170000,96000
+Toyota,Toyota Corolla G 2004,Chittagong,Yes,1 hour,1260000,89000
 Toyota,Toyota LiteAce cover ben 2013,Dhaka,Yes,1 hour,780000,86500
-Nissan,Nissan X-Trail red wine 2004,Chattogram,Yes,1 hour,880000,79000
+Nissan,Nissan X-Trail red wine 2004,Chittagong,Yes,1 hour,880000,79000
 Toyota,Toyota Sienta G QURO/61 2019,Dhaka,Yes,1 hour,2690000,75000
-Toyota,Toyota Harrier advance premium 2014,Chattogram,Yes,1 hour,4480000,42000
-Nissan,Nissan Cefiro full freas 2003,Chattogram,Yes,1 hour,950000,56000
-Toyota,Toyota Axio silver 2008,Chattogram,Yes,1 hour,1260000,89000
+Toyota,Toyota Harrier advance premium 2014,Chittagong,Yes,1 hour,4480000,42000
+Nissan,Nissan Cefiro full freas 2003,Chittagong,Yes,1 hour,950000,56000
+Toyota,Toyota Axio silver 2008,Chittagong,Yes,1 hour,1260000,89000
 Toyota,Toyota Carina . 1990,Dhaka,Yes,1 hour,450000,102459
 Honda,Honda Grace EX 2019,Khulna,Yes,1 hour,2600000,93506
 Toyota,Toyota Esquire Gi 2019,Khulna,Yes,1 hour,3180000,64236
-Toyota,Toyota Cami 1331 1999,Chattogram,Yes,1 hour,690000,99000
-Mitsubishi,Mitsubishi Outlandar 2000 2017,Chattogram,Yes,1 hour,3700000,65000
-Toyota,Toyota Corsa silver 1997,Chattogram,Yes,1 hour,590000,87000
-Toyota,Toyota Axio peldar Hybrid 2016,Chattogram,Yes,1 hour,1800000,68000
-Toyota,Toyota Allion push start 2009,Chattogram,Yes,1 hour,1950000,75000
-Hyundai,Hyundai Xcent . 2017,Chattogram,Yes,1 hour,1250000,41000
-Hyundai,Hyundai Elantra sanroof 2005,Chattogram,Yes,1 hour,795000,95000
-Toyota,Toyota Allion push start 2007,Chattogram,Yes,1 hour,1650000,85000
-Toyota,Toyota ist 1500 2004,Chattogram,Yes,1 hour,950000,69000
-Toyota,Toyota Corona premio 1997,Chattogram,Yes,Not given,630000,98000
-Toyota,Toyota Avanza black 2011,Chattogram,Yes,1 hour,890000,85000
-Toyota,Toyota Premio push start 2013,Chattogram,Yes,1 hour,2595000,52000
-Toyota,Toyota Sprinter 110 1996,Chattogram,Yes,1 hour,520000,98000
+Toyota,Toyota Cami 1331 1999,Chittagong,Yes,1 hour,690000,99000
+Mitsubishi,Mitsubishi Outlandar 2000 2017,Chittagong,Yes,1 hour,3700000,65000
+Toyota,Toyota Corsa silver 1997,Chittagong,Yes,1 hour,590000,87000
+Toyota,Toyota Axio peldar Hybrid 2016,Chittagong,Yes,1 hour,1800000,68000
+Toyota,Toyota Allion push start 2009,Chittagong,Yes,1 hour,1950000,75000
+Hyundai,Hyundai Xcent . 2017,Chittagong,Yes,1 hour,1250000,41000
+Hyundai,Hyundai Elantra sanroof 2005,Chittagong,Yes,1 hour,795000,95000
+Toyota,Toyota Allion push start 2007,Chittagong,Yes,1 hour,1650000,85000
+Toyota,Toyota ist 1500 2004,Chittagong,Yes,1 hour,950000,69000
+Toyota,Toyota Corona premio 1997,Chittagong,Yes,Not given,630000,98000
+Toyota,Toyota Avanza black 2011,Chittagong,Yes,1 hour,890000,85000
+Toyota,Toyota Premio push start 2013,Chittagong,Yes,1 hour,2595000,52000
+Toyota,Toyota Sprinter 110 1996,Chittagong,Yes,1 hour,520000,98000
 Toyota,Toyota Axio Nonhybrid X 2019,Dhaka,Yes,1 hour,2450000,96325
 Toyota,Toyota Premio . 2004,Dhaka,Yes,1 hour,1430000,75000
-Toyota,Toyota Allion 2003,Chattogram,No,1 hour,1230000,12000
-Toyota,Toyota Allion white 2004,Chattogram,Yes,1 hour,1330000,89000
-Toyota,Toyota Axio G 2013,Chattogram,Yes,1 hour,1750000,59000
-Toyota,Toyota Aqua push start 2013,Chattogram,Yes,1 hour,1250000,20000
-Toyota,Toyota Corolla x 2005,Chattogram,Yes,1 hour,1280000,90000
+Toyota,Toyota Allion 2003,Chittagong,No,1 hour,1230000,12000
+Toyota,Toyota Allion white 2004,Chittagong,Yes,1 hour,1330000,89000
+Toyota,Toyota Axio G 2013,Chittagong,Yes,1 hour,1750000,59000
+Toyota,Toyota Aqua push start 2013,Chittagong,Yes,1 hour,1250000,20000
+Toyota,Toyota Corolla x 2005,Chittagong,Yes,1 hour,1280000,90000
 Toyota,Toyota Hiace GL DUAL AC 2019,Dhaka,Yes,1 hour,3150000,71256
-Toyota,Toyota Fielder G 2012,Chattogram,Yes,1 hour,1680000,79000
-Toyota,Toyota Allion push start 2014,Chattogram,Yes,1 hour,2450000,52000
-Toyota,Toyota Premio push start 2013,Chattogram,Yes,1 hour,2590000,68000
-Toyota,Toyota Noah kr42 2004,Chattogram,Yes,1 hour,950000,89000
-Honda,Honda Vezel non hybrid 2014,Chattogram,Yes,1 hour,1950000,75000
-Hyundai,Hyundai creta 2023,Chattogram,Yes,1 hour,3490000,7000
+Toyota,Toyota Fielder G 2012,Chittagong,Yes,1 hour,1680000,79000
+Toyota,Toyota Allion push start 2014,Chittagong,Yes,1 hour,2450000,52000
+Toyota,Toyota Premio push start 2013,Chittagong,Yes,1 hour,2590000,68000
+Toyota,Toyota Noah kr42 2004,Chittagong,Yes,1 hour,950000,89000
+Honda,Honda Vezel non hybrid 2014,Chittagong,Yes,1 hour,1950000,75000
+Hyundai,Hyundai creta 2023,Chittagong,Yes,1 hour,3490000,7000
 Mazda,Mazda RX-8 2004,Dhaka,No,1 hour,1350000,70000
-Toyota,Toyota Premio push start 2013,Chattogram,Yes,1 hour,2450000,68000
-Toyota,Toyota Noah x 2005,Chattogram,Yes,1 hour,1350000,89000
-Toyota,Toyota Noah X 2010,Chattogram,Yes,1 hour,1850000,96000
-Toyota,Toyota Corolla x 2005,Chattogram,Yes,1 hour,1230000,82000
-Toyota,Toyota Premio silver 2003,Chattogram,Yes,1 hour,1350000,85000
+Toyota,Toyota Premio push start 2013,Chittagong,Yes,1 hour,2450000,68000
+Toyota,Toyota Noah x 2005,Chittagong,Yes,1 hour,1350000,89000
+Toyota,Toyota Noah X 2010,Chittagong,Yes,1 hour,1850000,96000
+Toyota,Toyota Corolla x 2005,Chittagong,Yes,1 hour,1230000,82000
+Toyota,Toyota Premio silver 2003,Chittagong,Yes,1 hour,1350000,85000
 Toyota,Toyota Hiace Super GL 2019,Khulna,Yes,1 hour,3900000,54123
-Toyota,Toyota Corolla X 2003,Chattogram,Yes,Not given,950000,96000
-Toyota,Toyota Premio car 2005,Chattogram,Yes,1 hour,1530000,120000
-Toyota,Toyota Vista ring 1999,Chattogram,Yes,1 hour,700000,89000
-Toyota,Toyota Noah x 2008,Chattogram,Yes,1 hour,1670000,86000
-Toyota,Toyota Probox dx 2004,Chattogram,Yes,1 hour,650000,89000
+Toyota,Toyota Corolla X 2003,Chittagong,Yes,Not given,950000,96000
+Toyota,Toyota Premio car 2005,Chittagong,Yes,1 hour,1530000,120000
+Toyota,Toyota Vista ring 1999,Chittagong,Yes,1 hour,700000,89000
+Toyota,Toyota Noah x 2008,Chittagong,Yes,1 hour,1670000,86000
+Toyota,Toyota Probox dx 2004,Chittagong,Yes,1 hour,650000,89000
 Toyota,Toyota Allion A15 Octane Drive 2005,Dhaka,Yes,1 hour,1460000,89000
 Toyota,Toyota Sprinter 111 2000,Dhaka,No,1 hour,665000,112000
 Toyota,Toyota Hiace Super GL 2 door powr 2020,Dhaka,Yes,1 hour,4330000,45632
-Toyota,Toyota Vitz push start 2009,Chattogram,Yes,1 hour,850000,69000
-Toyota,Toyota Noah Super star limu 2001,Chattogram,Yes,1 hour,1050000,89000
-Toyota,Toyota Raum green 1997,Chattogram,Yes,1 hour,700000,85000
+Toyota,Toyota Vitz push start 2009,Chittagong,Yes,1 hour,850000,69000
+Toyota,Toyota Noah Super star limu 2001,Chittagong,Yes,1 hour,1050000,89000
+Toyota,Toyota Raum green 1997,Chittagong,Yes,1 hour,700000,85000
 Toyota,Toyota Allion G pkg 2013,Dhaka,Yes,1 hour,2340000,89000
 Toyota,Toyota Corona Premio 2000,Dhaka,Yes,1 hour,770000,98000
 Toyota,Toyota Spacio 2004,Sylhet,Yes,1 hour,1280000,70000
 BMW,BMW 7 Series 730li.Turbo.LWB 2016,Dhaka,Yes,1 hour,14000000,20000
-Honda,Honda Grace octan drive 2017,Chattogram,Yes,1 hour,2590000,32000
-Toyota,Toyota Premio fex 2018,Chattogram,Yes,1 hour,3650000,42000
+Honda,Honda Grace octan drive 2017,Chittagong,Yes,1 hour,2590000,32000
+Toyota,Toyota Premio fex 2018,Chittagong,Yes,1 hour,3650000,42000
 Toyota,Toyota Esquire Gi Hybrid 2019,Khulna,Yes,1 hour,3400000,63746
-Toyota,Toyota Allion push start 2008,Chattogram,Yes,1 hour,1850000,89000
-Nissan,Nissan Teana cc 2400 2005,Chattogram,Yes,1 hour,1080000,990000
-Toyota,Toyota Premio push start 2013,Chattogram,Yes,1 hour,2390000,69800
+Toyota,Toyota Allion push start 2008,Chittagong,Yes,1 hour,1850000,89000
+Nissan,Nissan Teana cc 2400 2005,Chittagong,Yes,1 hour,1080000,990000
+Toyota,Toyota Premio push start 2013,Chittagong,Yes,1 hour,2390000,69800
 Isuzu,Isuzu foton pic up 2012,Dhaka,Yes,1 hour,850000,86000
-Toyota,Toyota Allion black 2005,Chattogram,Yes,1 hour,1370000,79000
-Toyota,Toyota Vitz push start 2008,Chattogram,Yes,1 hour,795000,89000
-Toyota,Toyota Axio push start 2012,Chattogram,Yes,1 hour,1780000,65000
-Toyota,Toyota Succeed ul 2012,Chattogram,Yes,Not given,1130000,79000
-Toyota,Toyota Allion car 2004,Chattogram,Yes,1 hour,1190000,99000
-Toyota,Toyota Hiace Super Gl 2019,Chattogram,Yes,1 hour,3980000,52000
-Toyota,Toyota Noah si 2013,Chattogram,Yes,1 hour,2380000,86000
-Toyota,Toyota Corolla x 2003,Chattogram,Yes,1 hour,995000,85000
+Toyota,Toyota Allion black 2005,Chittagong,Yes,1 hour,1370000,79000
+Toyota,Toyota Vitz push start 2008,Chittagong,Yes,1 hour,795000,89000
+Toyota,Toyota Axio push start 2012,Chittagong,Yes,1 hour,1780000,65000
+Toyota,Toyota Succeed ul 2012,Chittagong,Yes,Not given,1130000,79000
+Toyota,Toyota Allion car 2004,Chittagong,Yes,1 hour,1190000,99000
+Toyota,Toyota Hiace Super Gl 2019,Chittagong,Yes,1 hour,3980000,52000
+Toyota,Toyota Noah si 2013,Chittagong,Yes,1 hour,2380000,86000
+Toyota,Toyota Corolla x 2003,Chittagong,Yes,1 hour,995000,85000
 Toyota,Toyota Axio 2012 new shape,Dhaka,No,1 hour,1625000,100000
-Toyota,Toyota Noah x 2005,Chattogram,Yes,1 hour,1250000,98000
-Toyota,Toyota Allion redwein 2005,Chattogram,Yes,1 hour,1370000,89000
-Toyota,Toyota Premio push start 2008,Chattogram,Yes,1 hour,1850000,99000
-Toyota,Toyota Axio g push start 2008,Chattogram,Yes,1 hour,1350000,69000
-Chery,Chery QQ tx 2013,Chattogram,Yes,1 hour,380000,35000
+Toyota,Toyota Noah x 2005,Chittagong,Yes,1 hour,1250000,98000
+Toyota,Toyota Allion redwein 2005,Chittagong,Yes,1 hour,1370000,89000
+Toyota,Toyota Premio push start 2008,Chittagong,Yes,1 hour,1850000,99000
+Toyota,Toyota Axio g push start 2008,Chittagong,Yes,1 hour,1350000,69000
+Chery,Chery QQ tx 2013,Chittagong,Yes,1 hour,380000,35000
 Toyota,Toyota Noah WXB R-Grade 2019,Dhaka,Yes,1 hour,4080000,9078
 Toyota,"Toyota Harrier Z LEATHER ,GRADE:4.5 2021",Dhaka,Yes,1 hour,8550000,32000
-Honda,Honda CR-V EX MASTERPIECE 2019,Chattogram,Yes,1 hour,5750000,37000
-Toyota,Toyota Corolla G 2002,Chattogram,Yes,1 hour,980000,89000
-Toyota,Toyota Premio gray 2002,Chattogram,Yes,1 hour,1270000,90000
-Mitsubishi,Mitsubishi Lancer Gls 2003,Chattogram,Yes,1 hour,650000,85000
-Toyota,Toyota C-HR Hybrid 2017,Chattogram,Yes,1 hour,2750000,55000
-Toyota,Toyota Premio push start 2010,Chattogram,Yes,1 hour,1950000,89000
-Toyota,Toyota Allion push start 2009,Chattogram,Yes,1 hour,1880000,89000
+Honda,Honda CR-V EX MASTERPIECE 2019,Chittagong,Yes,1 hour,5750000,37000
+Toyota,Toyota Corolla G 2002,Chittagong,Yes,1 hour,980000,89000
+Toyota,Toyota Premio gray 2002,Chittagong,Yes,1 hour,1270000,90000
+Mitsubishi,Mitsubishi Lancer Gls 2003,Chittagong,Yes,1 hour,650000,85000
+Toyota,Toyota C-HR Hybrid 2017,Chittagong,Yes,1 hour,2750000,55000
+Toyota,Toyota Premio push start 2010,Chittagong,Yes,1 hour,1950000,89000
+Toyota,Toyota Allion push start 2009,Chittagong,Yes,1 hour,1880000,89000
 Toyota,Toyota Noah Hybrid 2019,Dhaka,Yes,1 hour,2920000,70165
-Toyota,Toyota Noah kr42 Standard roof 2005,Chattogram,Yes,1 hour,1150000,120000
-Toyota,Toyota Axio peldar 2013,Chattogram,Yes,1 hour,1550000,69000
-Toyota,Toyota Vitz Black 2010,Chattogram,Yes,1 hour,990000,86000
-Toyota,Toyota Vitz key start 2012,Chattogram,Yes,1 hour,1050000,56000
-Toyota,Toyota Hiace . 2015,Chattogram,Yes,Not given,3450000,850000
-Toyota,Toyota Prado tx 2004,Chattogram,Yes,1 hour,3400000,56000
-Toyota,Toyota Axio goldan silver 2007,Chattogram,Yes,1 hour,1250000,86000
+Toyota,Toyota Noah kr42 Standard roof 2005,Chittagong,Yes,1 hour,1150000,120000
+Toyota,Toyota Axio peldar 2013,Chittagong,Yes,1 hour,1550000,69000
+Toyota,Toyota Vitz Black 2010,Chittagong,Yes,1 hour,990000,86000
+Toyota,Toyota Vitz key start 2012,Chittagong,Yes,1 hour,1050000,56000
+Toyota,Toyota Hiace . 2015,Chittagong,Yes,Not given,3450000,850000
+Toyota,Toyota Prado tx 2004,Chittagong,Yes,1 hour,3400000,56000
+Toyota,Toyota Axio goldan silver 2007,Chittagong,Yes,1 hour,1250000,86000
 Toyota,Toyota Noah X 3-Grade 2020,Dhaka,Yes,1 hour,3430000,54589
-Toyota,Toyota Corolla 111 1998,Chattogram Division,No,1 hour,200000,86000
-Nissan,Nissan X-Trail parl 2012,Chattogram,Yes,1 hour,1990000,85000
-Toyota,Toyota Axio car cabi start 2013,Chattogram,Yes,1 hour,1730000,69000
-Toyota,Toyota Fancargo 2000,Chattogram,Yes,1 hour,670000,120000
-Toyota,Toyota Premio push start 2012,Chattogram,Yes,1 hour,2280000,56000
-Proton,Proton x70 2021,Chattogram,Yes,1 hour,2280000,23000
-Toyota,Toyota Premio push start 2015,Chattogram,Yes,1 hour,2590000,58000
-Toyota,Toyota Allion push start 2010,Chattogram,Yes,1 hour,2100000,69000
-Toyota,Toyota Corolla G 2004,Chattogram,Yes,1 hour,1170000,87000
-Toyota,Toyota Premio silver 2004,Chattogram,Yes,1 hour,1450000,89000
-Nissan,Nissan X-Trail push start 2020,Chattogram,Yes,1 hour,4490000,39000
-Toyota,Toyota Vitz key start 2009,Chattogram,Yes,1 hour,850000,52000
-Honda,Honda Fit full fress 2002,Chattogram,Yes,1 hour,430000,99000
-Toyota,Toyota Axio car hybrid 2015,Chattogram,Yes,1 hour,1850000,68000
-Toyota,Toyota Fielder wxb 2018,Chattogram,Yes,1 hour,2450000,23000
-Toyota,Toyota Kluger Sun roof 2003,Chattogram,Yes,1 hour,1600000,73000
-Toyota,Toyota Vitz silver 2001,Chattogram,Yes,1 hour,520000,82000
-Toyota,Toyota Premio push start 2009,Chattogram,Yes,1 hour,2030000,88000
-Toyota,Toyota Auris push start 2012,Chattogram,Yes,1 hour,1480000,52000
-Honda,Honda CR-V push start 2017,Chattogram,Yes,1 hour,4480000,42000
-Nissan,Nissan Cefiro black 2003,Chattogram,Yes,1 hour,450000,89000
-Toyota,Toyota Corolla x 2006,Chattogram,Yes,Not given,1270000,82000
-Nissan,Nissan X-Trail sunroof 2015,Chattogram,Yes,1 hour,2480000,59000
-Toyota,Toyota Probox DX 2002,Chattogram,Yes,1 hour,620000,89000
-Toyota,Toyota Succeed white 2003,Chattogram,Yes,1 hour,730000,86000
-Toyota,Toyota Corolla G 2003,Chattogram,Yes,1 hour,1050000,89000
+Toyota,Toyota Corolla 111 1998,Chittagong,No,1 hour,200000,86000
+Nissan,Nissan X-Trail parl 2012,Chittagong,Yes,1 hour,1990000,85000
+Toyota,Toyota Axio car cabi start 2013,Chittagong,Yes,1 hour,1730000,69000
+Toyota,Toyota Fancargo 2000,Chittagong,Yes,1 hour,670000,120000
+Toyota,Toyota Premio push start 2012,Chittagong,Yes,1 hour,2280000,56000
+Proton,Proton x70 2021,Chittagong,Yes,1 hour,2280000,23000
+Toyota,Toyota Premio push start 2015,Chittagong,Yes,1 hour,2590000,58000
+Toyota,Toyota Allion push start 2010,Chittagong,Yes,1 hour,2100000,69000
+Toyota,Toyota Corolla G 2004,Chittagong,Yes,1 hour,1170000,87000
+Toyota,Toyota Premio silver 2004,Chittagong,Yes,1 hour,1450000,89000
+Nissan,Nissan X-Trail push start 2020,Chittagong,Yes,1 hour,4490000,39000
+Toyota,Toyota Vitz key start 2009,Chittagong,Yes,1 hour,850000,52000
+Honda,Honda Fit full fress 2002,Chittagong,Yes,1 hour,430000,99000
+Toyota,Toyota Axio car hybrid 2015,Chittagong,Yes,1 hour,1850000,68000
+Toyota,Toyota Fielder wxb 2018,Chittagong,Yes,1 hour,2450000,23000
+Toyota,Toyota Kluger Sun roof 2003,Chittagong,Yes,1 hour,1600000,73000
+Toyota,Toyota Vitz silver 2001,Chittagong,Yes,1 hour,520000,82000
+Toyota,Toyota Premio push start 2009,Chittagong,Yes,1 hour,2030000,88000
+Toyota,Toyota Auris push start 2012,Chittagong,Yes,1 hour,1480000,52000
+Honda,Honda CR-V push start 2017,Chittagong,Yes,1 hour,4480000,42000
+Nissan,Nissan Cefiro black 2003,Chittagong,Yes,1 hour,450000,89000
+Toyota,Toyota Corolla x 2006,Chittagong,Yes,Not given,1270000,82000
+Nissan,Nissan X-Trail sunroof 2015,Chittagong,Yes,1 hour,2480000,59000
+Toyota,Toyota Probox DX 2002,Chittagong,Yes,1 hour,620000,89000
+Toyota,Toyota Succeed white 2003,Chittagong,Yes,1 hour,730000,86000
+Toyota,Toyota Corolla G 2003,Chittagong,Yes,1 hour,1050000,89000
 Toyota,Toyota Fielder Nonhybrid X 2019,Dhaka,Yes,1 hour,2420000,78966
 Toyota,Toyota Esquire Gi hybrid 2019,Dhaka,Yes,1 hour,3420000,76352
 Toyota,Toyota Axio HYBRID BEIGE 2019,Dhaka,Yes,1 hour,2399000,76000
 Toyota,Toyota Prius 𝐒 𝐭𝐨𝐮𝐫𝐢𝐧𝐠 2018,Khulna,Yes,1 hour,3170000,66000
-Toyota,Toyota Noah si push start 2009,Chattogram,Yes,1 hour,1850000,85000
-Toyota,Toyota Allion black 2003,Chattogram,Yes,1 hour,1180000,96000
-Toyota,Toyota Ractis press 2012,Chattogram,Yes,1 hour,1390000,89000
-Mitsubishi,Mitsubishi Outlander sunroof 2007,Chattogram,Yes,1 hour,1450000,95000
-Toyota,Toyota Carina GT 1997,Chattogram,Yes,1 hour,495000,89000
-Toyota,Toyota Noah x 2007,Chattogram,Yes,1 hour,1650000,99000
-Toyota,Toyota C-HR MODE BRUNO 2019,Chattogram,Yes,1 hour,3330000,71000
-Toyota,Toyota Succeed 1500 cc 2005,Chattogram,Yes,1 hour,730000,99000
-Toyota,Toyota Passo Black 2005,Chattogram,Yes,1 hour,630000,79000
-Toyota,Toyota Allion silver 2006,Chattogram,Yes,1 hour,1540000,89000
+Toyota,Toyota Noah si push start 2009,Chittagong,Yes,1 hour,1850000,85000
+Toyota,Toyota Allion black 2003,Chittagong,Yes,1 hour,1180000,96000
+Toyota,Toyota Ractis press 2012,Chittagong,Yes,1 hour,1390000,89000
+Mitsubishi,Mitsubishi Outlander sunroof 2007,Chittagong,Yes,1 hour,1450000,95000
+Toyota,Toyota Carina GT 1997,Chittagong,Yes,1 hour,495000,89000
+Toyota,Toyota Noah x 2007,Chittagong,Yes,1 hour,1650000,99000
+Toyota,Toyota C-HR MODE BRUNO 2019,Chittagong,Yes,1 hour,3330000,71000
+Toyota,Toyota Succeed 1500 cc 2005,Chittagong,Yes,1 hour,730000,99000
+Toyota,Toyota Passo Black 2005,Chittagong,Yes,1 hour,630000,79000
+Toyota,Toyota Allion silver 2006,Chittagong,Yes,1 hour,1540000,89000
 Toyota,Toyota Corolla Cross Z Leather 360° CAM 2021,Khulna,Yes,1 hour,4250000,16578
-Toyota,Toyota Probox DX 2005,Chattogram,Yes,1 hour,670000,89000
-Toyota,Toyota Corolla 111 1998,Chattogram,Yes,1 hour,595000,98000
-Toyota,Toyota Noah si push start 2013,Chattogram,Yes,1 hour,2300000,75000
-Toyota,Toyota Sprinter gray 1996,Chattogram,Yes,1 hour,650000,86000
-Toyota,Toyota C-HR hybrid 2018,Chattogram,Yes,1 hour,2780000,28300
-Toyota,Toyota Premio push start Fex 2014,Chattogram,Yes,Not given,2770000,68000
-Toyota,Toyota Harrier PROGRESS METAL LP 2019,Chattogram,Yes,2 hours,6800000,41000
-Toyota,Toyota Axio G 2009,Chattogram,Yes,2 hours,1450000,74000
-Toyota,Toyota Corolla g 2006,Chattogram,Yes,2 hours,1350000,68000
-Nissan,Nissan Dualis black 2008,Chattogram,Yes,2 hours,1350000,85000
-Toyota,Toyota Corolla G 2004,Chattogram,Yes,2 hours,1250000,86000
-Toyota,Toyota Premio silver 2004,Chattogram,Yes,2 hours,1380000,92000
-Toyota,Toyota Corolla g...2005 sape kora 2003,Chattogram,Yes,2 hours,980000,99000
+Toyota,Toyota Probox DX 2005,Chittagong,Yes,1 hour,670000,89000
+Toyota,Toyota Corolla 111 1998,Chittagong,Yes,1 hour,595000,98000
+Toyota,Toyota Noah si push start 2013,Chittagong,Yes,1 hour,2300000,75000
+Toyota,Toyota Sprinter gray 1996,Chittagong,Yes,1 hour,650000,86000
+Toyota,Toyota C-HR hybrid 2018,Chittagong,Yes,1 hour,2780000,28300
+Toyota,Toyota Premio push start Fex 2014,Chittagong,Yes,Not given,2770000,68000
+Toyota,Toyota Harrier PROGRESS METAL LP 2019,Chittagong,Yes,2 hours,6800000,41000
+Toyota,Toyota Axio G 2009,Chittagong,Yes,2 hours,1450000,74000
+Toyota,Toyota Corolla g 2006,Chittagong,Yes,2 hours,1350000,68000
+Nissan,Nissan Dualis black 2008,Chittagong,Yes,2 hours,1350000,85000
+Toyota,Toyota Corolla G 2004,Chittagong,Yes,2 hours,1250000,86000
+Toyota,Toyota Premio silver 2004,Chittagong,Yes,2 hours,1380000,92000
+Toyota,Toyota Corolla g...2005 sape kora 2003,Chittagong,Yes,2 hours,980000,99000
 Toyota,Toyota Noah S-Z HYBRID 2022,Dhaka,Yes,2 hours,5450000,31767
 Mercedes-Benz,Mercedes-Benz GLS-Class Gls450.AMG.PREMIUM 2021,Dhaka,Yes,2 hours,27000000,17000
 Lexus,Lexus RX 300 F SPORT NHB 5AA 2020,Dhaka,Yes,2 hours,12000000,24637
 Toyota,Toyota Voxy HYBRID G 2019,Dhaka,Yes,2 hours,2900000,65873
-Toyota,Toyota Prius alpha 2015,Chattogram,Yes,2 hours,2100000,69000
-Toyota,Toyota Axio peldar 2011,Chattogram,Yes,2 hours,1650000,99000
+Toyota,Toyota Prius alpha 2015,Chittagong,Yes,2 hours,2100000,69000
+Toyota,Toyota Axio peldar 2011,Chittagong,Yes,2 hours,1650000,99000
 Toyota,Toyota Axio X Non Hybrid 2019,Khulna,Yes,2 hours,2300000,57289
 Toyota,Toyota Fielder X 2019,Khulna,Yes,2 hours,2200000,75000
-Toyota,Toyota Axio hybrid 2019,Chattogram,Yes,2 hours,2380000,32000
-Toyota,Toyota Allion push start 2011,Chattogram,Yes,2 hours,2070000,85000
+Toyota,Toyota Axio hybrid 2019,Chittagong,Yes,2 hours,2380000,32000
+Toyota,Toyota Allion push start 2011,Chittagong,Yes,2 hours,2070000,85000
 Honda,Honda Vezel Hybrid 2014,Dhaka,No,2 hours,1700000,55000
-Toyota,Toyota Noah sr 40 2001,Chattogram,Yes,2 hours,850000,95000
-Toyota,Toyota Premio push start 2010,Chattogram,Yes,2 hours,2070000,76000
-Toyota,Toyota Corolla x 2004,Chattogram,Yes,2 hours,1050000,85000
+Toyota,Toyota Noah sr 40 2001,Chittagong,Yes,2 hours,850000,95000
+Toyota,Toyota Premio push start 2010,Chittagong,Yes,2 hours,2070000,76000
+Toyota,Toyota Corolla x 2004,Chittagong,Yes,2 hours,1050000,85000
 Toyota,Toyota Rush G 2022,Dhaka,Yes,2 hours,4250000,20600
-Toyota,Toyota Belta push start 2006,Chattogram,Yes,2 hours,920000,89000
+Toyota,Toyota Belta push start 2006,Chittagong,Yes,2 hours,920000,89000
 Toyota,Toyota Noah Si wxb 2019,Dhaka,Yes,2 hours,3260000,89632
-Toyota,Toyota Allion 1st edition(G class) 2005,Chattogram,No,Not given,1460000,53000
+Toyota,Toyota Allion 1st edition(G class) 2005,Chittagong,No,Not given,1460000,53000
 Toyota,Toyota Prius A TOURING SELECTION 2019,Khulna,Yes,2 hours,3100000,93821
-Toyota,Toyota Allion push start 2009,Chattogram,Yes,2 hours,1950000,75000
-Toyota,Toyota Axio silver 2013,Chattogram,Yes,2 hours,1690000,77000
-Nissan,Nissan X-Trail octan drive 2003,Chattogram,Yes,2 hours,990000,89000
+Toyota,Toyota Allion push start 2009,Chittagong,Yes,2 hours,1950000,75000
+Toyota,Toyota Axio silver 2013,Chittagong,Yes,2 hours,1690000,77000
+Nissan,Nissan X-Trail octan drive 2003,Chittagong,Yes,2 hours,990000,89000
 Toyota,Toyota Allion A15 G Wine 2019,Khulna,Yes,2 hours,4100000,15098
 Toyota,Toyota Yaris Cross Z Leather 360 Cam 2020,Khulna,Yes,2 hours,3700000,33098
-Toyota,"Toyota TownAce , 1995",Chattogram,Yes,2 hours,390000,89000
-Toyota,Toyota Corolla G 2004,Chattogram,Yes,2 hours,1130000,86000
+Toyota,"Toyota TownAce , 1995",Chittagong,Yes,2 hours,390000,89000
+Toyota,Toyota Corolla G 2004,Chittagong,Yes,2 hours,1130000,86000
 Toyota,Toyota Corolla Cross Z Leather 360 Cam 2021,Khulna,Yes,2 hours,4250000,17098
-Toyota,Toyota Allion push start 2009,Chattogram,Yes,2 hours,1850000,85000
-Toyota,Toyota Wagon 100 white 2002,Chattogram,Yes,2 hours,450000,96000
-Toyota,Toyota Premio push start 2011,Chattogram Division,Yes,2 hours,2150000,76000
-Toyota,Toyota Hiace GL 2004,Chattogram,Yes,2 hours,700000,89000
-Toyota,Toyota Premio push start 2015,Chattogram,Yes,2 hours,2650000,68000
-Mitsubishi,Mitsubishi Lancer ex 2016,Chattogram,Yes,2 hours,2150000,52000
+Toyota,Toyota Allion push start 2009,Chittagong,Yes,2 hours,1850000,85000
+Toyota,Toyota Wagon 100 white 2002,Chittagong,Yes,2 hours,450000,96000
+Toyota,Toyota Premio push start 2011,Chittagong,Yes,2 hours,2150000,76000
+Toyota,Toyota Hiace GL 2004,Chittagong,Yes,2 hours,700000,89000
+Toyota,Toyota Premio push start 2015,Chittagong,Yes,2 hours,2650000,68000
+Mitsubishi,Mitsubishi Lancer ex 2016,Chittagong,Yes,2 hours,2150000,52000
 Toyota,Toyota Premio uesd like new 2014,Dhaka,Yes,2 hours,2685000,55000
-Toyota,Toyota Hiace Super Gl 2017,Chattogram,Yes,2 hours,3450000,53000
-Toyota,Toyota Allion . 2006,Chattogram,Yes,2 hours,1470000,99000
-Toyota,Toyota Noah x 2004,Chattogram,Yes,2 hours,1150000,86000
-Mahindra,Mahindra TUV300 black 2020,Chattogram,Yes,2 hours,1390000,56000
-Toyota,Toyota Premio silver 2005,Chattogram,Yes,2 hours,1540000,89000
-Toyota,Toyota Premio push start 2015,Chattogram,Yes,2 hours,2690000,52000
-Toyota,Toyota Esquire push start 2016,Chattogram,Yes,2 hours,3300000,43000
-Toyota,Toyota Premio push start 2016,Chattogram,Yes,2 hours,3350000,39000
+Toyota,Toyota Hiace Super Gl 2017,Chittagong,Yes,2 hours,3450000,53000
+Toyota,Toyota Allion . 2006,Chittagong,Yes,2 hours,1470000,99000
+Toyota,Toyota Noah x 2004,Chittagong,Yes,2 hours,1150000,86000
+Mahindra,Mahindra TUV300 black 2020,Chittagong,Yes,2 hours,1390000,56000
+Toyota,Toyota Premio silver 2005,Chittagong,Yes,2 hours,1540000,89000
+Toyota,Toyota Premio push start 2015,Chittagong,Yes,2 hours,2690000,52000
+Toyota,Toyota Esquire push start 2016,Chittagong,Yes,2 hours,3300000,43000
+Toyota,Toyota Premio push start 2016,Chittagong,Yes,2 hours,3350000,39000
