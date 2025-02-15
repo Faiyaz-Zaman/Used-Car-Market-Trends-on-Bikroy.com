@@ -43,6 +43,7 @@ https://github.com/Faiyaz-Zaman/UsedCarVisualization/blob/main/lastsecondhand_ca
 
 ```
 5.Data Processing
-```I used Pandas to process the data, starting with converting the Price column, originally in string format (e.g., TK 12,333), into integers. I applied the same transformation to the Mileage Driven column. One major issue I encountered was inconsistency in city names—some entries had Dhaka Division while others had just Dhaka, which Tableau recognized as a separate location. To resolve this, I standardized the names to Dhaka.
+```bash
+I used Pandas to process the data, starting with converting the Price column, originally in string format (e.g., TK 12,333), into integers. I applied the same transformation to the Mileage Driven column. One major issue I encountered was inconsistency in city names—some entries had Dhaka Division while others had just Dhaka, which Tableau recognized as a separate location. To resolve this, I standardized the names to Dhaka.
 ```
 
