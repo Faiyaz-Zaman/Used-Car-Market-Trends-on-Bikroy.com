@@ -1,6 +1,6 @@
-#UsedCarVisualization
+**#UsedCarVisualization**
 
-#Problem Statement
+**Problem Statement**
 
 The goal of this project is to gather information on used cars in Bangladesh from [here](https://bikroy.com/en/ads/c/bangladesh/cars/used)
 Later we used the scraped data to understand the following demographics and correlations using Tableau dashboard:
@@ -15,7 +15,7 @@ Later we used the scraped data to understand the following demographics and corr
 
 5.Top-Performing Models: Which car model stands out with the highest average price and the highest mileage driven when sold?
 
-#Findings
+**Findings**
 1. Dhaka has the highest number of used cars for sale (192) with an average pricing of (Tk. 27,67,969)
 2. Yes, there is a relation between them. As mileage increases price also decreases but the brand of the car is also a factor 
 3. Yes, the brand affects their pricing.BMW has the highest selling value among all the other cars.
