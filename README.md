@@ -5,16 +5,18 @@
 The goal of this project is to gather information on used cars in Bangladesh from [here](https://bikroy.com/en/ads/c/bangladesh/cars/used)
 Later we used the scraped data to understand the following demographics and correlations using Tableau dashboard:
 
-1.Market Insights: What is the scenario of used cars for sale across different cities?
+1. Market Insights: What is the scenario of used cars for sale across different cities?
 
-2.Price-Mileage Relationship: Is there a significant relationship between a car's price and the mileage it has driven?
+2. Price-Mileage Relationship: Is there a significant relationship between a car's price and the mileage it has driven?
 
-3.Brand Impact: Does the brand influence the price? Which brand commands the highest resale value?
+3. Brand Impact: Does the brand influence the price? Which brand commands the highest resale value?
 
-4.Usage Patterns: After how much usage (in terms of mileage or years) do buyers typically sell their cars?
+4. Usage Patterns: After how much usage (in terms of mileage or years) do buyers typically sell their cars?
 
-5.Top-Performing Models: Which car model stands out with the highest average price and the highest mileage driven when sold?
+5. Top-Performing Models: Which car model stands out with the highest average price and the highest mileage driven when sold?
 
+## **Dashboard**
+<img src="app/modelpic.png" width="800" height="350">
 ## **Findings**
 1. Dhaka has the highest number of used cars for sale (192) with an average pricing of (Tk. 27,67,969)
 2. Yes, there is a relation between them. As mileage increases price also decreases but the brand of the car is also a factor 
