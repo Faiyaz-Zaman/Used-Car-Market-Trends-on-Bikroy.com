@@ -20,7 +20,8 @@ Later we used the scraped data to understand the following demographics and corr
 
 ## **Dashboard**
 <img src="dashboard.png" width="850" height="350">
-You can visit the public dashboard [here](https://public.tableau.com/app/profile/faiyaz.zaman/viz/UsedCarVisualization/Dashboard1)
+
+You can visit the public dashboard [here](https://public.tableau.com/app/profile/faiyaz.zaman/viz/UsedCarVisualization/Dashboard1/)
 
 ## **Findings**
 1. Chittagong has the highest number of used cars for sale (226) with an average pricing of (Tk. 1,710,376)
