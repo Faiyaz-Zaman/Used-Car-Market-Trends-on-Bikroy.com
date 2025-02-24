@@ -16,7 +16,7 @@ Later we used the scraped data to understand the following demographics and corr
 5. Top-Performing Models: Which car model stands out with the highest average price and the highest mileage driven when sold?
 
 ## **Dashboard**
-<img src="app/modelpic.png" width="800" height="350">
+<img src="dashboard.png" width="800" height="350">
 ## **Findings**
 1. Dhaka has the highest number of used cars for sale (192) with an average pricing of (Tk. 27,67,969)
 2. Yes, there is a relation between them. As mileage increases price also decreases but the brand of the car is also a factor 
