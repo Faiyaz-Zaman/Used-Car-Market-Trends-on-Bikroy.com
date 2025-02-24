@@ -49,5 +49,11 @@ pip install -r requirements.txt
 https://github.com/Faiyaz-Zaman/UsedCarVisualization/blob/main/lastsecondhand_car_details.csv
 
 ```
+## **Contact**
+
+Email: faiyaz.zaman10@gmail.com
+Facebook: https://www.facebook.com/profile.php?id=100091684975958
+Instagram: https://www.instagram.com/faiyaz.zaman/
+Linkedin: https://www.linkedin.com/in/faiyaz-uz-zaman/
 
 
